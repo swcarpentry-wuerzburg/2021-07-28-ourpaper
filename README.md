@@ -29,6 +29,7 @@ Group members: philko4711 lyapschaff MindaugasPauzuolis
 
 ### Room 4
 github user names:
+yeouyang
 
 ### Room 5
 github user names: WenHuiCheng K-C-Martin
