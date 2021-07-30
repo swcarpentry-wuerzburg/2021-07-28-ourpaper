@@ -6,8 +6,9 @@ The collaborative swc paper
 
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
-## Authors: Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Kim Martin, Ye Ouyang, Wen-Hui Cheng, Jefferson Portela, Elena Bencurova,Jonathan Patzke,Stefano Navarro,Jefferson Portela
+## Authors    
 
+Jonathan Patzke, Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Wen-Hui Cheng, Stefano Navarro, Elena Bencurova, Priya N, Jefferson Portela, Kim Martin
 
 ## Introduction
 
