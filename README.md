@@ -4,12 +4,11 @@
 The collaborative swc paper
 
 ## Acknowledgements
-
+Stefano Navarro
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 Authors: 
-<!Add your Plain name here!>
-Jonathan Patzke Tobias Müller Mindaugas Pauzuolis Pablo Basteiro Christoph Binsfeld Ye Ouyang
+Jonathan Patzke Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Jefferson Portela,
 Wen-Hui,Cheng
 
 ## Introduction
@@ -18,7 +17,16 @@ Wen-Hui,Cheng
 Very interesting stuff.
 
 ### Room 1
+<<<<<<< HEAD
+github user names: Francisella, NadineWei Priya, Stef Nav
+github user names:<br>
+ch-n<br>
+Francisella <br>
+NadineWei<br>
+MicroPriya
+=======
 github user names: Francisella, NadineWei, Priya, Stefano Navarro
+>>>>>>> f2ace86c0c40b761bb718bb7afd8e743c1667fd4
 
 ### Room 2
 github user names:
