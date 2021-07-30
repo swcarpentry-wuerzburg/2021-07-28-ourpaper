@@ -25,8 +25,8 @@ github user names:
 tobiaslcmueller
 
 ### Room 3
-
 Group members: philko4711 lyapschaff MindaugasPauzuolis
+
 
 ### Room 4
 github user names:
