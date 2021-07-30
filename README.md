@@ -31,8 +31,7 @@ Group members: philko4711 lyapschaff MindaugasPauzuolis PabloBasteiro
 github user names:
 
 ### Room 5
-github user names:
-
+github user names: WenHuiCheng K-C-Martin
 
 ## Conclusion
 
