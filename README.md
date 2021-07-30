@@ -33,7 +33,7 @@ github user names:
 
 Cbinsfeld
 ### Room 5
-github user names: WenHuiCheng K-C-Martin unithmueller
+github user names: WenHuiCheng K-C-Martin unithmueller jdseufert
 
 ## Conclusion
 
