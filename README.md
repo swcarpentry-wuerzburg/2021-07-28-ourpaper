@@ -9,7 +9,7 @@ The collaborative swc paper
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 Authors: 
-Tobias Müller Mindaugas Pauzuolis Pablo Basteiro
+Tobias Müller Mindaugas Pauzuolis Pablo Basteiro Christoph Binsfeld Ye Ouyang
 
 ## Introduction
 
@@ -17,12 +17,7 @@ Tobias Müller Mindaugas Pauzuolis Pablo Basteiro
 Very interesting stuff.
 
 ### Room 1
-github user names: Francisella, NadineWei Priya, Stefano Navarro
-github user names:<br>
-ch-n<br>
-Francisella <br>
-NadineWei<br>
-MicroPriya
+github user names: Francisella, NadineWei, Priya, Stefano Navarro
 
 ### Room 2
 github user names:
