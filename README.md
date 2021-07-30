@@ -13,12 +13,15 @@ Very interesting stuff.
 
 ### Room 1
 github user names:
+Francisella
+Cbinsfeld
 
 ### Room 2
 github user names:
 
 ### Room 3
-github user names: lyapschaff
+
+Group members: philko4711 lyapschaff
 
 ### Room 4
 github user names:
