@@ -5,8 +5,8 @@ The collaborative swc paper
 
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
-Authors: Pablo Basteiro 
-<!Add your Plain name here!>
+<<<<<<< HEAD
+Authors: Pablo Basteiro  Mindaugas Pauzuolis
 
 
 ## Introduction
@@ -26,6 +26,7 @@ MicroPriya
 ### Room 2
 github user names:
 tobiaslcmueller
+Bycreatinganaccount
 
 ### Room 3
 Group members: philko4711 lyapschaff MindaugasPauzuolis PabloBasteiro, Mohamed
