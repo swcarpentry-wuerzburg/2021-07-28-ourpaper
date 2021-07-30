@@ -5,6 +5,9 @@ The collaborative swc paper
 
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
+Authors: 
+<!Add your Plain name here!>
+
 
 ## Introduction
 
@@ -35,7 +38,7 @@ Cbinsfeld
 yeouyang
 
 ### Room 5
-github user names: WenHuiCheng K-C-Martin unithmueller crsoph
+github user names: WenHuiCheng K-C-Martin unithmueller crsoph jdseufert
 
 ## Conclusion
 
