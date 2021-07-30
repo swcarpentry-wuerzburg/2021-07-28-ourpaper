@@ -18,12 +18,8 @@ Wen-Hui,Cheng, Elena Bencurova Priya N
 =======
 ## Authors: 
 Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Kim Martin, Ye Ouyang, Wen-Hui Cheng, Jefferson Portela, Elena Bencurova
-<<<<<<< HEAD
 PriyaN
-=======
->>>>>>> 819ca5ab92e046e9deb37fa1b6298f637def4cb2
 
->>>>>>> beb777afff8dc39cad654e267aa10b58fb01386e
 ## Introduction
 
 ## Content
