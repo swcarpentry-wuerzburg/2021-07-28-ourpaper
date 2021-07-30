@@ -14,8 +14,7 @@ Tobias Müller Mindaugas Pauzuolis Pablo Basteiro
 Very interesting stuff.
 
 ### Room 1
-github user names: Francisella, NadineWei Priya
-
+github user names: Francisella, NadineWei Priya, Stefano Navarro
 github user names:<br>
 ch-n<br>
 Francisella <br>
