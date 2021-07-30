@@ -13,19 +13,23 @@ Very interesting stuff.
 
 ### Room 1
 github user names:
+Francisella, 
+Cbinsfeld, 
+NadineWei
 
 ### Room 2
 github user names:
+tobiaslcmueller
 
 ### Room 3
-github user names:
+
+Group members: philko4711 lyapschaff MindaugasPauzuolis
 
 ### Room 4
 github user names:
 
 ### Room 5
-github user names:
-WenHuiCheng
+github user names: WenHuiCheng K-C-Martin
 
 ## Conclusion
 
