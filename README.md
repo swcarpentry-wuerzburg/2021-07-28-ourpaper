@@ -12,19 +12,19 @@ Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 Very interesting stuff.
 
 ### Room 1
-Group members:
+github user names:
 
 ### Room 2
-Group members:
+github user names:
 
 ### Room 3
-Group members:
+github user names:
 
 ### Room 4
-Group members:
+github user names:
 
 ### Room 5
-Group members:
+github user names:
 
 
 ## Conclusion
