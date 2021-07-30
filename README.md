@@ -35,7 +35,7 @@ yeouyang
 
 Cbinsfeld
 ### Room 5
-github user names: WenHuiCheng K-C-Martin unithmueller jdseufert
+github user names: WenHuiCheng K-C-Martin unithmueller crsoph jdseufert
 
 ## Conclusion
 
