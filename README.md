@@ -1,3 +1,4 @@
+
 /2021-07-28-ourpaper
 The collaborative swc paper
 
@@ -6,9 +7,10 @@ The collaborative swc paper
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 Authors: 
-
 <!Add your Plain name here!>
-JonathanPatzke Tobias Müller Mindaugas Pauzuolis Pablo Basteire
+JonathanPatzke Tobias Müller Mindaugas Pauzuolis Pablo Basteiro Christoph Binsfeld
+
+
 
 ## Introduction
 
