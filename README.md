@@ -9,8 +9,23 @@ Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 ## Introduction
 
 ## Content
+Very interesting stuff.
 
-Very interesting stuff
+### Room 1
+Group members:
+
+### Room 2
+Group members:
+
+### Room 3
+Group members:
+
+### Room 4
+Group members:
+
+### Room 5
+Group members:
+
 
 ## Conclusion
 
