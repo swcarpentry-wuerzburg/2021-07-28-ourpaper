@@ -12,11 +12,11 @@ Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 Very interesting stuff.
 
 ### Room 1
-github user names:
-Francisella, 
-Cbinsfeld, 
-NadineWei
-Priya
+github user names:<br>
+Francisella, <br>
+Cbinsfeld,<br>
+NadineWei<br>
+
 
 ### Room 2
 github user names:
@@ -28,10 +28,9 @@ Group members: philko4711 lyapschaff MindaugasPauzuolis
 
 ### Room 4
 github user names:
-yeouyang
 
 ### Room 5
-github user names: K-C-Martin
+github user names:
 
 
 ## Conclusion
