@@ -1,5 +1,4 @@
 
-# 2021-07-28-ourpaper
  2021-07-28-ourpaper
 
 The collaborative swc paper
@@ -9,8 +8,13 @@ The collaborative swc paper
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 Authors: 
+<<<<<<< HEAD
 Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Jefferson Portela,
 Wen-Hui,Cheng, Stefano Navarro
+=======
+Jonathan Patzke Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Jefferson Portela,
+Wen-Hui,Cheng, Elena Bencurova
+>>>>>>> a87fa03a36938c22fe7d2815cd4b8013809d5231
 
 ## Introduction
 
