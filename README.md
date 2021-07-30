@@ -15,6 +15,7 @@ Very interesting stuff.
 github user names:
 Francisella
 Cbinsfeld
+NadineWei
 
 ### Room 2
 github user names:
