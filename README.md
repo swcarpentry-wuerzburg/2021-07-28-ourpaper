@@ -1,4 +1,7 @@
-/2021-07-28-ourpaper
+
+# 2021-07-28-ourpaper
+ 2021-07-28-ourpaper
+
 The collaborative swc paper
 
 ## Acknowledgements
@@ -23,8 +26,9 @@ tobiaslcmueller
 Bycreatinganaccount
 
 ### Room 3
-Group members: philko4711 lyapschaff MindaugasPauzuolis PabloBasteiro, Mohamed
 
+Group members: philko4711 lyapschaff MindaugasPauzuolis PabloBasteiro, Mohamed
+washington002
 
 ### Room 4
 github user names:
