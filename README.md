@@ -9,7 +9,7 @@ Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 Authors: 
 Jonathan Patzke Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Jefferson Portela,
-Wen-Hui,Cheng
+Wen-Hui,Cheng, Elena Bencurova
 
 ## Introduction
 
