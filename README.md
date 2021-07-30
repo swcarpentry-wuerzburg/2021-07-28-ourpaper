@@ -1,4 +1,4 @@
- 2021-07-28-ourpaper
+/2021-07-28-ourpaper
 The collaborative swc paper
 
 ## Acknowledgements
@@ -6,7 +6,7 @@ The collaborative swc paper
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 Authors: 
-<!Add your Plain name here!>
+Tobias Müller Mindaugas Pauzuolis
 
 
 ## Introduction
@@ -18,13 +18,14 @@ Very interesting stuff.
 github user names: Francisella, NadineWei Priya, Stefano Navarro
 github user names:<br>
 ch-n<br>
-Francisella, <br>
+Francisella <br>
 NadineWei<br>
 MicroPriya
 
 ### Room 2
 github user names:
 tobiaslcmueller
+Bycreatinganaccount
 
 ### Room 3
 Group members: philko4711 lyapschaff MindaugasPauzuolis PabloBasteiro, Mohamed
