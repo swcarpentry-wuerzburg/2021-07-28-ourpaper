@@ -3,12 +3,27 @@
 The collaborative swc paper
 
 ## Acknowledgements
-Stefano Navarro
+
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
+<<<<<<< HEAD
+Authors: 
+<<<<<<< HEAD
+Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Jefferson Portela,
+Wen-Hui,Cheng, Stefano Navarro
+=======
+Jonathan Patzke Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Jefferson Portela,
+Wen-Hui,Cheng, Elena Bencurova Priya N
+>>>>>>> a87fa03a36938c22fe7d2815cd4b8013809d5231
+=======
 ## Authors: 
 Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Kim Martin, Ye Ouyang, Wen-Hui Cheng, Jefferson Portela, Elena Bencurova
+<<<<<<< HEAD
 PriyaN
+=======
+>>>>>>> 819ca5ab92e046e9deb37fa1b6298f637def4cb2
+
+>>>>>>> beb777afff8dc39cad654e267aa10b58fb01386e
 ## Introduction
 
 ## Content
