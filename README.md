@@ -8,7 +8,7 @@ Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 ## Authors    
 
-Jonathan Patzke, Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Wen-Hui Cheng, Stefano Navarro, Elena Bencurova, Priya N, Jefferson Portela, Kim Martin
+Jonathan Patzke, Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Ye Ouyang, Wen-Hui Cheng, Stefano Navarro, Elena Bencurova, Priya N, Kim Martin
 
 ## Introduction
 
@@ -25,7 +25,7 @@ Bycreatinganaccount
 
 ### Room 3
 
-Group members: philko4711 lyapschaff MindaugasPauzuolis PabloBasteiro, Mohamed
+Group members: philko4711, lyapschaff, MindaugasPauzuolis, PabloBasteiro, Mohamed
 washington002
 
 ### Room 4
