@@ -1,4 +1,4 @@
- 2021-07-28-ourpaper
+/2021-07-28-ourpaper
 The collaborative swc paper
 
 ## Acknowledgements
@@ -16,7 +16,7 @@ github user names: Francisella, NadineWei Priya
 
 github user names:<br>
 ch-n<br>
-Francisella, <br>
+Francisella <br>
 NadineWei<br>
 MicroPriya
 
