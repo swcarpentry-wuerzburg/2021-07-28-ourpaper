@@ -3,12 +3,11 @@
 The collaborative swc paper
 
 ## Acknowledgements
-
+Stefano Navarro
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 Authors: 
-<<<<<<< HEAD
-Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Kim Martin, Ye Ouyang, Wen-Hui Cheng
+Tobias Müller, Mindaugas Pauzuolis, Pablo Basteiro, Christoph Binsfeld, Kim Martin, Ye Ouyang, Wen-Hui Cheng, Jefferson Portela
 
 ## Introduction
 
