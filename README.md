@@ -5,6 +5,9 @@ The collaborative swc paper
 
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
+Authors: 
+Tobias Müller Mindaugas Pauzuolis
+
 
 ## Introduction
 
@@ -23,19 +26,20 @@ MicroPriya
 ### Room 2
 github user names:
 tobiaslcmueller
+Bycreatinganaccount
 
 ### Room 3
-Group members: philko4711 lyapschaff MindaugasPauzuolis PabloBasteiro
+Group members: philko4711 lyapschaff MindaugasPauzuolis PabloBasteiro, Mohamed
 
 
 ### Room 4
 github user names:
+Schaefer_N1@ukw.de
 Cbinsfeld
 yeouyang
 
-Cbinsfeld
 ### Room 5
-github user names: WenHuiCheng K-C-Martin unithmueller
+github user names: WenHuiCheng K-C-Martin unithmueller crsoph jdseufert
 
 ## Conclusion
 
