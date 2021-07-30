@@ -13,8 +13,8 @@ Very interesting stuff.
 
 ### Room 1
 github user names:
-Francisella
-Cbinsfeld
+Francisella, 
+Cbinsfeld, 
 NadineWei
 
 ### Room 2
