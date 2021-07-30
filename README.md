@@ -8,8 +8,7 @@ Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 Authors: 
 
 <!Add your Plain name here!>
-JonathanPatzkeTobiasMüllerMindaugasPauzuolis
-
+JonathanPatzke Tobias Müller Mindaugas Pauzuolis Pablo Basteire
 
 ## Introduction
 
@@ -17,8 +16,7 @@ JonathanPatzkeTobiasMüllerMindaugasPauzuolis
 Very interesting stuff.
 
 ### Room 1
-github user names: Francisella, NadineWei Priya
-
+github user names: Francisella, NadineWei Priya, Stefano Navarro
 github user names:<br>
 ch-n<br>
 Francisella <br>
