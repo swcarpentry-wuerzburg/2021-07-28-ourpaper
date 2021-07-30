@@ -6,7 +6,7 @@ The collaborative swc paper
 Florian Goth and the rest of Wuerzburg Software Carpentry Team.
 
 Authors: 
-<!Add your Plain name here!>
+<!Add your Plain name here!> Mindaugas Pauzuolis
 
 
 ## Introduction
